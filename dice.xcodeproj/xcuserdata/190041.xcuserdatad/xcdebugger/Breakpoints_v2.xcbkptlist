@@ -14,10 +14,102 @@
             filePath = "dice/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "18"
-            endingLineNumber = "18"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
             landmarkName = "butt(_:)"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B43E4D8-4A70-410D-B569-95C1A7C93759 - ffa3459983764bf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dice.ViewController.score.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "dice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/190041/Desktop/dice/dice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8B43E4D8-4A70-410D-B569-95C1A7C93759 - 3cf4c457ab502fe6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dice.ViewController.score.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "dice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/190041/Desktop/dice/dice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "8B43E4D8-4A70-410D-B569-95C1A7C93759 - d0a90993df342727"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dice.ViewController.score.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "dice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/190041/Desktop/dice/dice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "8B43E4D8-4A70-410D-B569-95C1A7C93759 - 79d497e5027ae5f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dice.ViewController.score.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "dice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/190041/Desktop/dice/dice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "8B43E4D8-4A70-410D-B569-95C1A7C93759 - d3cedad664470640"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dice.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; dice.ViewController"
+                  moduleName = "dice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/190041/Desktop/dice/dice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "8B43E4D8-4A70-410D-B569-95C1A7C93759 - 1c3947361adcd243"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dice.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;dice.ViewController&gt;"
+                  moduleName = "dice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/190041/Desktop/dice/dice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
